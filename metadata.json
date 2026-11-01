@@ -1,0 +1,6 @@
+{
+  "name": "Daves Dash - Geometry Dash WebGL Remake & Level Editor",
+  "description": "High-performance Geometry Dash remake powered by WebGL with rhythm-synced physics, official campaign levels, icon customization, and custom level creator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
